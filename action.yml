@@ -1,0 +1,9 @@
+name: "hey yo action"
+description: "Hey, Yo!"
+author: "okuzawats"
+branding:
+  icon: "thumbs-up"
+  color: "yellow"
+runs:
+  using: "docker"
+  image: "Dockerfile"
