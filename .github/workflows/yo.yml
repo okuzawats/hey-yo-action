@@ -5,4 +5,4 @@ jobs:
     name: runner / yo
     runs-on: ubuntu-latest
     steps:
-      - uses: okuzawats/hey-yo-action@aa017d4aef5c3e8d2b994d1b4888dd69d095aad2
+      - uses: okuzawats/hey-yo-action@v0.1
