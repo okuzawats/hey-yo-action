@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "Hey, Yo!"
+cat yo.txt
